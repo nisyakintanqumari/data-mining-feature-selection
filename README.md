@@ -56,7 +56,11 @@ python main.py
 
 ---
 
-## 📈 Sample Output
+## 🖼️ Correlation Heatmap
+
+![Correlation Heatmap](results/correlation_heatmap.png)
+
+
 - `correlation_heatmap.png` - visualization of correlation matrix
 - `performance_report.txt` - classification report before & after feature selection
 
