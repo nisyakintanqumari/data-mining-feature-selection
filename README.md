@@ -36,3 +36,28 @@ FeatureSelection_CorrMatrix/
 ├── requirements.txt
 └── README.md
 ```
+
+---
+
+## 🚀 How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/FeatureSelection_CorrMatrix.git
+cd FeatureSelection_CorrMatrix
+```
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. Run the script:
+```bash
+python main.py
+```
+
+---
+
+## 📈 Sample Output
+- `correlation_heatmap.png` - visualization of correlation matrix
+- `performance_report.txt` - classification report before & after feature selection
+
+---
