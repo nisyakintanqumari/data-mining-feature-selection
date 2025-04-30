@@ -63,5 +63,3 @@ python main.py
 
 - `correlation_heatmap.png` - visualization of correlation matrix
 - `performance_report.txt` - classification report before & after feature selection
-
----
