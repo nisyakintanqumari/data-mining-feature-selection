@@ -58,7 +58,7 @@ python main.py
 
 ## 🖼️ Correlation Heatmap
 
-![Correlation Heatmap](results/correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/nisyakintanqumari/data-mining-feature-selection/blob/main/Heatmap%20Correlation%20all%20Feature.jpeg)
 
 
 - `correlation_heatmap.png` - visualization of correlation matrix
